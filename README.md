@@ -17,9 +17,9 @@ You should use (or modify) the commands that are compatible with your operating 
 
 You can also watch the video related to the explanation on youtube:
 
-[exec, execFile, spawn] (http://trulymittal.com)
+[exec, execFile, spawn] (https://www.youtube.com/watch?v=bbmFvCbVDqo)
 
-[fork] (http://trulymittal.com)
+[fork] (https://www.youtube.com/watch?v=7cFNTD73N88&t=11s)
 
 ## Author
 
